@@ -1,0 +1,7 @@
+{
+  "username": "username",
+  "password": "password",
+  "port": 22,
+  "mode": "ssh",
+  "threads": 8
+}
